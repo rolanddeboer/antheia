@@ -1,6 +1,6 @@
 {
-  "storage file": "/Users/roland/dev/antheia/storage.json",
-  "console image": "/Users/roland/dev/antheia/console.png",
+  "storage file": "storage.json",
+  "console image": "console.png",
   "azure service region": "westeurope",
   "speech voice": "en-GB-SoniaNeural",
   "speech language": "en-GB",

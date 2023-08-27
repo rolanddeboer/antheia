@@ -1,4 +1,4 @@
-azure_storage
+azure-cognitiveservices-speech
 openai
 python-dotenv
 tenacity
