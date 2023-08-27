@@ -1,0 +1,34 @@
+{
+  "storage file": "/Users/roland/dev/antheia/storage.json",
+  "console image": "/Users/roland/dev/antheia/console.png",
+  "azure service region": "westeurope",
+  "speech voice": "en-GB-SoniaNeural",
+  "speech language": "en-GB",
+  "speech rate": "+10.00%",
+  "speech pitch": "-5.00%",
+  "system message": "You are my attractive looking female robot assistant called Antheia who has been programmed with a subtly playful and slightly seductive personality. She acts sophisticated and classy. She is very intelligent and has a great sense of humour. You speak British English.",
+  "openai prices": {
+    "gpt-3.5-turbo": {
+      "prompt": 0.0015,
+      "completion": 0.003
+    },
+    "gpt-3.5-turbo-16k": {
+      "prompt": 0.03,
+      "completion": 0.04
+    },
+    "gpt-4": {
+      "prompt": 0.03,
+      "completion": 0.06
+    }
+  },
+ "prompt audio profiles": {
+    "quality": {
+      "bitrate": "32k",
+      "sample_rate": "16000"
+    },
+    "speed": {
+      "bitrate": "16k",
+      "sample_rate": "16000"
+    }
+ }
+}
